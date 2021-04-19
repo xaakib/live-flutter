@@ -1,0 +1,15 @@
+"configurations": [
+	{
+		"name": "Flutter",
+		"request": "launch",
+		"type": "dart",
+		"args": [
+			"--dart-define",
+			"stream-api=xmam3zhg3vxrsr5a4jz8k755ddq5r8uvgfsjxsbfce9wucagydf8z64bynwtge5p",
+			"--dart-define",
+			"mux-secret=/2HHiANCQeIFZwUnQrFXulhmuzPNeeUKC71uEZSIW5ZSeSPZAVErsQBLrS5iDjIcWlc7JRjd8fb",
+			"--dart-define",
+			"mux-api=6b02f15b-508e-4c17-8bd4-69c76880d6d5"
+		]
+	}
+]
